@@ -50,17 +50,6 @@ html {
   font-weight: bold;
 }
 
-.inicio .contenido-seccion header .logo {
-  font-weight: bold;
-  font-size: 2.5rem;
-  font-family: "Roboto";
-  text-shadow: 0 0 35px #fff;
-}
-
-.inicio .contenido-seccion header .logo .color {
-  color: #940253;
-  font-family: "Roboto";
-}
 
 .inicio .contenido-seccion header .nav-bar {
   position: fixed;
